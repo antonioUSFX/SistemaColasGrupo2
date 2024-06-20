@@ -1,5 +1,5 @@
-# SistemaColasGrupo2
-Sistema de Gestion de Colas Grupo 2
+# Sistema de Gestion de Colas Grupo 2
+
 
 Arduz Limpias Priscila Ximena
 
